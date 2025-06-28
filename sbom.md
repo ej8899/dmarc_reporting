@@ -32,6 +32,13 @@ for Internal DMARC Report Dashboard
 
 ---
 
+## 🌐 Frontend JS / Browser Dependencies
+| Library         | Source URL                                 | Purpose                         |
+|-----------------|--------------------------------------------|---------------------------------|
+| Google Charts   | https://www.gstatic.com/charts/loader.js   | Rendering pie/bar/timeline charts in HTML dashboard |
+
+---
+
 ## 📂 Outputs & Storage
 | File                     | Purpose                                |
 |--------------------------|---------------------------------------|
